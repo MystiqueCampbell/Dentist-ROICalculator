@@ -4,12 +4,12 @@
 ---
 
 ## 📋 Table of Contents
-1. [How the Calculator Works](#how-the-calculator-works)
-2. [Understanding the Numbers](#understanding-the-calculations)
-3. [Getting Data from Dentists](#getting-data-from-dentists)
-4. [Sales Script & Questions](#the-complete-sales-script)
-5. [Handling Objections](#handling-objections)
-6. [Live Demo Strategy](#live-demo-strategy)
+1. [How the Calculator Works](#-how-the-calculator-works)
+2. [Understanding the Numbers](#-understanding-the-calculations)
+3. [Getting Data from Dentists](#-getting-data-from-dentists)
+4. [Sales Script & Questions](#-the-complete-sales-script)
+5. [Handling Objections](#-handling-objections)
+6. [Live Demo Strategy](#-live-demo-strategy)
 
 ---
 
