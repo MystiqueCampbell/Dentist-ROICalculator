@@ -4,16 +4,16 @@
 ---
 
 ## 📋 Table of Contents
-1. [How the Calculator Works](#how-it-works)
-2. [Understanding the Numbers](#understanding-numbers)
-3. [Getting Data from Dentists](#getting-data)
-4. [Sales Script & Questions](#sales-script)
-5. [Handling Objections](#objections)
-6. [Live Demo Strategy](#demo-strategy)
+1. [How the Calculator Works](#how-the-calculator-works)
+2. [Understanding the Numbers](#understanding-the-calculations)
+3. [Getting Data from Dentists](#getting-data-from-dentists)
+4. [Sales Script & Questions](#the-complete-sales-script)
+5. [Handling Objections](#handling-objections)
+6. [Live Demo Strategy](#live-demo-strategy)
 
 ---
 
-## 🔧 How the Calculator Works {#how-it-works}
+## 🔧 How the Calculator Works
 
 ### The 5 Key Inputs
 
@@ -140,7 +140,7 @@ Total First Year Value: $690
 
 ---
 
-## 🧮 Understanding the Calculations {#understanding-numbers}
+## 🧮 Understanding the Calculations
 
 ### Step 1: Calculate Current Performance
 
@@ -221,7 +221,7 @@ First Year Gain = Net Gain × 12
 
 ---
 
-## 📞 Getting Data from Dentists {#getting-data}
+## 📞 Getting Data from Dentists
 
 ### The Discovery Call Framework
 
@@ -334,7 +334,7 @@ Most dentists **DON'T** track these numbers precisely. That's okay! Use this app
 
 ---
 
-## 💬 The Complete Sales Script {#sales-script}
+## 💬 The Complete Sales Script
 
 ### Opening (After Initial Introduction)
 
@@ -472,7 +472,7 @@ Most dentists **DON'T** track these numbers precisely. That's okay! Use this app
 
 ---
 
-## 🛡️ Handling Objections {#objections}
+## 🛡️ Handling Objections
 
 ### Objection 1: "That's too expensive"
 
@@ -512,7 +512,7 @@ Most dentists **DON'T** track these numbers precisely. That's okay! Use this app
 
 ---
 
-## 🎯 Live Demo Strategy {#demo-strategy}
+## 🎯 Live Demo Strategy
 
 ### The Perfect Demo Flow
 
